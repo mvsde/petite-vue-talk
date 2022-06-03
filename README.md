@@ -1,9 +1,11 @@
 # petite-vue
 
+_Sprinkling interactivity on HTML ✨_
+
 To start the slide show:
 
 - `npm install`
-- `npm run dev`
+- `npm run start`
 - visit http://localhost:3030
 
 Edit [slides.md](slides.md) to see the changes.

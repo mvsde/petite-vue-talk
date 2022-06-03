@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "slidev",
+    "start": "slidev",
     "build": "slidev build",
     "export": "slidev export"
   },
