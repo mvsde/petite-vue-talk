@@ -1,14 +1,14 @@
-Insert a _slightly risky_ script…
+Load Vue …
 
 ```html
-<script defer src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/vue@3"></script>
 ```
 
 <br>
 
 <v-click>
 
-… a bit of markup …
+… add a bit of markup …
 
 ```html
 <div id="todo">
@@ -25,15 +25,13 @@ Insert a _slightly risky_ script…
 … and off we go!
 
 ```js
-new Vue({
-  el: '#todo',
-  data: { … },
-  methods: { … }
-)}
+const { createApp } = Vue
+
+createApp({
+  data () {
+    …
+  }
+}).mount('#todo')
 ```
 
 </v-click>
-
-<!--
-* Didn’t even specify a version for Vue 🤦🏻
--->

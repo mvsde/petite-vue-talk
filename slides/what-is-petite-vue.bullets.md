@@ -7,9 +7,9 @@ layout: center
 * “Sprinkling” interactivity on server-rendered HTML
 * Vue-like template syntax
 * Reduced feature set
-* ~7 KB vs ~32 KB for Vue 3
-* _Very much experimental…_
-* _…but works great, already!_
+* ~7 KB vs ~33 KB for Vue 3
+* _Very much experimental …_
+* _… but works great, already!_
 
 </v-clicks>
 
