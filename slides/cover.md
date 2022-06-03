@@ -1,12 +1,12 @@
 ---
 layout: cover
-class: text-center content-start
+class: content-end
 background: /cover.webp
 ---
 
 # **petite-vue**
 
-## “Sprinkling” interactivity on HTML ✨
+## Sprinkling interactivity on HTML ✨
 
 <!--
 * Thank the organizers

@@ -12,7 +12,7 @@ layout: center
 
 # Fynn Becker
 
-they/them
+they / dey
 
 <br>
 
@@ -22,12 +22,6 @@ they/them
 
 </v-click>
 
-<br>
-
-<v-click>
-
-* [fynn.be](https://fynn.be)
-* [twitter.com/mvsde](https://twitter.com/mvsde)
-* [github.com/mvsde](https://github.com/mvsde)
-
-</v-click>
+<!--
+* Factorial is hiring
+ -->

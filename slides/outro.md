@@ -6,7 +6,16 @@
 
 * [github.com/vuejs/petite-vue](https://github.com/vuejs/petite-vue)
 * [petite-vue.talks.fynn.be](https://petite-vue.talks.fynn.be/)
-* [alpinejs.dev](https://alpinejs.dev/)
+
+</v-clicks>
+
+<br>
+
+<v-clicks>
+
+* [fynn.be](https://fynn.be)
+* [twitter.com/mvsde](https://twitter.com/mvsde)
+* [github.com/mvsde](https://github.com/mvsde)
 
 </v-clicks>
 
@@ -16,7 +25,7 @@
 
 _Keep in mind:_
 
-* petite-vue is still experimental
+* petite-vue is kinda experimental
 * One of Evan You’s spontaneous side projects
 
 </v-click>
