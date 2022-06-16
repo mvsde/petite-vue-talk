@@ -12,7 +12,7 @@ layout: center
 
 # Fynn Becker
 
-they / dey
+they · dey
 
 <br>
 
@@ -24,4 +24,4 @@ they / dey
 
 <!--
 * Factorial is hiring
- -->
+-->

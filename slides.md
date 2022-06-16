@@ -73,5 +73,13 @@ src: slides/cloak.solution.md
 ---
 
 ---
+src: slides/in-the-wild.md
+---
+
+---
+src: slides/in-the-wild.example.md
+---
+
+---
 src: slides/outro.md
 ---

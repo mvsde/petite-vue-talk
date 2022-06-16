@@ -1,4 +1,4 @@
-# Learn more …
+# Learn more
 
 <br>
 
