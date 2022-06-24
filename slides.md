@@ -81,5 +81,17 @@ src: slides/in-the-wild.example.md
 ---
 
 ---
+src: slides/alternatives.md
+---
+
+---
+src: slides/alternatives.alpine.md
+---
+
+---
+src: slides/alternatives.svelte.md
+---
+
+---
 src: slides/outro.md
 ---

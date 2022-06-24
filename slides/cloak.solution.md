@@ -1,6 +1,6 @@
-The solution is the `v-cloak` attribute …
+The solution is …
 
-```html
+```html {1}
 <ul v-cloak>
   <li v-for="item in items">
     {{ item }}
