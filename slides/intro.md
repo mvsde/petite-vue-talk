@@ -18,7 +18,10 @@ they · dey
 
 <v-click>
 
-<img src="/factorial.svg" width="20" class="float-left -mt-0.5 mr-3.5"> Frontend Developer at [Factorial](https://www.factorial.io/)
+<div class="flex items-center gap-3.5">
+  <img src="/factorial.svg" alt="" width="20" height="28">
+  <p>Frontend Developer at <a href="https://www.factorial.io/" target="_blank">Factorial</a></p>
+</div>
 
 </v-click>
 
