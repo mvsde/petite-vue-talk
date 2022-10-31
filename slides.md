@@ -3,7 +3,7 @@ title: petite-vue
 titleTemplate: "%s"
 lineNumbers: true
 fonts:
-  italic: true
+  provider: none
 
 src: slides/cover.md
 ---
