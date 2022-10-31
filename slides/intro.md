@@ -12,7 +12,7 @@ layout: center
 
 # Fynn Becker
 
-they · dey
+they · them
 
 <br>
 
