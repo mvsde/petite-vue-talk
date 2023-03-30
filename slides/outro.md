@@ -13,5 +13,5 @@ image: /outro.webp
 <br>
 
 * [fynn.be](https://fynn.be)
-* [twitter.com/mvsde](https://twitter.com/mvsde)
 * [@mvsde@mastodon.social](https://mastodon.social/@mvsde)
+* [twitter.com/mvsde](https://twitter.com/mvsde)
